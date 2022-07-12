@@ -17,5 +17,6 @@ export default createGlobalStyle`
     position: relative;
     width: 100%;
     height: 100%;
+    background: #FAFBFC;
   }
 `;
